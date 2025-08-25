@@ -1,6 +1,6 @@
 # Monopoly‑Go‑Bot
 
-A Python bot for playing **Monopoly Go!** on idle — ideal for automating simple actions or gameplay pauses.
+A Python bot for playing **Monopoly Go!** on idle, ideal for automating simple actions or gameplay pauses.
 
 ---
 
@@ -69,12 +69,6 @@ Contributions are welcome! If you'd like to extend or improve this bot:
 3. Commit your additions (`git commit -m "Add feature"`)  
 4. Push it (`git push origin feature/your-feature`)  
 5. Submit a Pull Request
-
----
-
-## 📜 License
-
-*(Add your license information here if applicable; otherwise, delete this section)*
 
 ---
 
