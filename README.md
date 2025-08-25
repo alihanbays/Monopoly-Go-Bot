@@ -7,7 +7,6 @@ A Python bot for playing **Monopoly Go!** on idle, ideal for automating simple a
 ## 🚀 Features (Add as needed)
 
 - Idle gameplay automation
-- (You can list specific capabilities here if applicable, e.g., “roll handling,” “in-game interaction,” etc.)
 
 ---
 
@@ -15,7 +14,6 @@ A Python bot for playing **Monopoly Go!** on idle, ideal for automating simple a
 
 - **Language**: Python
 - **Script File**: `monopolygobot.py`
-- **Ignore List**: `.gitignore` is configured for the project
 
 ---
 
@@ -36,16 +34,12 @@ A Python bot for playing **Monopoly Go!** on idle, ideal for automating simple a
 ### ✅ Prerequisites
 
 - Python 3.x  
-- Any required dependencies (if you have a `requirements.txt`, mention how to install them)
 
 ### ▶️ Running Locally
 
 ```bash
 git clone https://github.com/alihanbays/Monopoly-Go-Bot.git
 cd Monopoly-Go-Bot
-
-# (Optional) If you have dependency files:
-pip install -r requirements.txt
 
 # Run the bot
 python monopolygobot.py
@@ -55,8 +49,7 @@ python monopolygobot.py
 
 ## 📝 Notes & TODOs
 
-- Include notes about whether any setup (like emulator or window focus) is needed.
-- If you have unimplemented features or known limitations, you can list them here.
+- You need to have active monopoly go emulator open, playing on your computer before starting the bot
 
 ---
 
