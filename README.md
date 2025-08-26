@@ -35,7 +35,7 @@ A Python bot for playing **Monopoly Go!** on idle, ideal for automating simple a
 
 - Python 3.x  
 
-### ▶️ Running Locally
+### Running Locally
 
 ```bash
 git clone https://github.com/alihanbays/Monopoly-Go-Bot.git
