@@ -4,34 +4,34 @@ A Python bot for playing **Monopoly Go!** on idle, ideal for automating simple a
 
 ---
 
-## 🚀 Features (Add as needed)
+## Features
 
 - Idle gameplay automation
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language**: Python
 - **Script File**: `monopolygobot.py`
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 .
-├── Buttons               # (Presumed folder—add description if needed)
+├── Buttons               # Images for bot to detect
 ├── monopolygobot.py      # Main bot script
 ├── .gitignore
-└── README.md             # This file
+└── README.md             
 ```
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
-### ✅ Prerequisites
+### Prerequisites
 
 - Python 3.x  
 
@@ -47,13 +47,13 @@ python monopolygobot.py
 
 ---
 
-## 📝 Notes & TODOs
+## Notes & TODOs
 
 - You need to have active monopoly go emulator open, playing on your computer before starting the bot
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to extend or improve this bot:
 
@@ -65,6 +65,6 @@ Contributions are welcome! If you'd like to extend or improve this bot:
 
 ---
 
-## 🙌 About
+## About
 
-Bot to play Monopoly Go on idle. Inspiring simple automation—expand it as needed!
+Bot to play Monopoly Go on idle. Inspiring simple automation expand it as needed!
